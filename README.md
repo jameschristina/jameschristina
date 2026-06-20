@@ -18,7 +18,7 @@
 
 <h2>📈 Security & Business Data Analytics</h2>
 
-- Tableau & PostgreSQL(pgadmin)
+- Tableau & PostgreSQL(pgadmin server)
     - [Superstore - Analysis of Product Segmentation](https://github.com/ChristinaJames1/Superstore-Product-Segment-Analysis)
     - [Superstore - Profitability Analysis](https://github.com/ChristinaJames1/Superstore-Profitability-Analysis)
 
