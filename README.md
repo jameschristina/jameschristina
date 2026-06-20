@@ -4,7 +4,6 @@
 
 - Zero Trust Architecture (M&A Environment)
     - [Merged Topology - Azure SaaS/PaaS Implementation](https://github.com/ChristinaJames1/Azure-Implementation)
-      
 - Identity & API Security
     - [Secure Vehicle API - Zero Trust SIEM ](https://github.com/jameschristina/secure-vehicle-api-zero-trust-siem)
 
