@@ -7,7 +7,7 @@
       
 - Identity & API Security
     - [Secure Vehicle API - Zero Trust SIEM/UEBA ](https://github.com/jameschristina/secure-vehicle-api-zero-trust-siem)
-    - [Secure Vehicle API - Zero Trust SOC Platform ](https://github.com/jameschristina/secure-vehicle-api-zero-trust)
+    - IoT (MQTT) In-Progress
 <h2> 🔰 Basics</h2>
 
 - Python: [User Input - Compute Numbers](https://github.com/ChristinaJames1/Python-Compute-Numbers/blob/main/README.md) | [FizzBuzz - Basic Logic, Loops, & Conditionals](https://github.com/ChristinaJames1/Python-FizzBuzz/blob/main/README.md) | [Guessing Game - User Input/Output, Random Numbers](https://github.com/ChristinaJames1/Python---Numbers-Game/blob/main/README.md)
