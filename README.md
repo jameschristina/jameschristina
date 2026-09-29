@@ -1,4 +1,4 @@
-<h1>Hi, I'm Christina! <br/><a href="https://www.linkedin.com/in/christinanjames/">IT Professional</a>, <a href="https://github.com/ChristinaJames1">Cyber Grad & Data Security Advocate</a>
+<h1>Hi, I'm Christina! <br/><a href="https://www.linkedin.com/in/christinanjames/">IT Professional</a>, <a href="https://github.com/ChristinaJames1">Cyber Grad & IAM/PAM Analyst</a>
 
 <h2> 👩‍💻 Cybersecurity and IT Projects</h2>
 
