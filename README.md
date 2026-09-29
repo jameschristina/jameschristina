@@ -3,7 +3,7 @@
 <h2> 👩‍💻 Cybersecurity and IT Projects</h2>
 
 - Zero Trust  
-    - [Azure SaaS/PaaS M&A Integration](https://github.com/ChristinaJames1/Azure-Implementation)
+    - [Azure SaaS/PaaS M&A Integration](https://github.com/ChristinaJames1/Azure-Integration)
       
 - Identity & API Security
     - [Secure Vehicle API - Zero Trust SIEM/UEBA ](https://github.com/jameschristina/secure-vehicle-api-zero-trust-siem)
