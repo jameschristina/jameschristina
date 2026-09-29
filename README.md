@@ -2,8 +2,8 @@
 
 <h2> 👩‍💻 Cybersecurity and IT Projects</h2>
 
-- Zero Trust Architecture (Mergers & Acquisitions)
-    - [Azure SaaS/PaaS Integration](https://github.com/ChristinaJames1/Azure-Implementation)
+- Zero Trust  
+    - [Azure SaaS/PaaS M&A Integration](https://github.com/ChristinaJames1/Azure-Implementation)
       
 - Identity & API Security
     - [Secure Vehicle API - Zero Trust SIEM/UEBA ](https://github.com/jameschristina/secure-vehicle-api-zero-trust-siem)
